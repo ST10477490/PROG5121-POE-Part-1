@@ -1,3 +1,6 @@
+ // Name: Moliehi Princes Nkomo
+   // Student number: ST10477490
+   package com.chatapp;
 package com.chatapp;
 
 import java.util.Scanner;
