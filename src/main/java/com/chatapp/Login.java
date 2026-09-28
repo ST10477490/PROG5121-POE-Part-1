@@ -1,5 +1,5 @@
- // Name: Your Name
-   // Student number: 12345678
+ // Name: Moliehi Princes Nkomo
+   // Student number: ST10477490
    package com.chatapp;
 package com.chatapp;
 
