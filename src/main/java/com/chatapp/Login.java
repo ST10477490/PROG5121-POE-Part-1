@@ -1,3 +1,6 @@
+ // Name: Your Name
+   // Student number: 12345678
+   package com.chatapp;
 package com.chatapp;
 
 import java.util.regex.Pattern;
